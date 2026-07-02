@@ -1,2 +1,2 @@
-print("Hello World")
-print("wow new commit")
+a=5
+print(a)
